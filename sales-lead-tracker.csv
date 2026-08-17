@@ -1,0 +1,9 @@
+Lead ID,Customer Name,Lead Source,Status,Product Interest,Follow-Up Date,Estimated Value
+L001,Customer A,Website,New,Service Package,2026-08-18,1200
+L002,Customer B,Referral,Qualified,Premium Package,2026-08-19,2500
+L003,Customer C,Social Media,Follow-Up,Service Package,2026-08-20,1500
+L004,Customer D,Website,Converted,Premium Package,2026-08-21,3000
+L005,Customer E,Referral,New,Service Package,2026-08-22,1800
+L006,Customer F,Social Media,Qualified,Premium Package,2026-08-23,2200
+L007,Customer G,Website,Lost,Service Package,2026-08-24,1000
+L008,Customer H,Referral,Follow-Up,Premium Package,2026-08-25,2800
